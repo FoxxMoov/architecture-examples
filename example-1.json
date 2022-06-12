@@ -1,0 +1,35 @@
+{
+  "marchés": [
+    {
+      "id": 9876,
+      "nom": "Meudon",
+      "adresse": "78 avenue du general de Gaulle",
+      "code-postal": "92000",
+      "date-ouverture": "2022-09-22",
+      "marchants": [
+        {
+          "id": 9876543,
+          "nom": "Maraîcher du grand ouest Parisien",
+          "siret": "12890975",
+          "stand": {
+            "nom": "Maraîcher",
+            "description": "lorem",
+            "commentaires": [
+              {
+                "id": 678,
+                "rate": 5,
+                "contenu": "lorem"
+              }
+            ],
+            "produits": [
+              {
+                "id": 87,
+                "nom": "Pomme"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

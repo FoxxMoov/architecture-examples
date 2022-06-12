@@ -1,0 +1,26 @@
+{
+  "marchants": [
+    {
+      "id": 9876543,
+      "nom": "Maraîcher du grand ouest Parisien",
+      "siret": "12890975",
+      "stand": {
+        "nom": "Maraîcher",
+        "description": "lorem",
+        "commentaires": [
+          {
+            "id": 678,
+            "rate": 5,
+            "contenu": "lorem"
+          }
+        ],
+        "produits": [
+          {
+            "id": 87,
+            "nom": "Pomme"
+          }
+        ]
+      }
+    }
+  ]
+}
