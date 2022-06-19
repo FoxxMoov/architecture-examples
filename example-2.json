@@ -4,9 +4,19 @@
       "id": 9876543,
       "nom": "Maraîcher du grand ouest Parisien",
       "siret": "12890975",
+      "type": "Alimentaire",
+      "proprietaire": {
+        "nom": "Doe",
+        "prenom": "John",
+        "email": "jhon.doe@gmail.com",
+        "telephone": "06000000"
+      },
       "stand": {
+        "id": 8888,
         "nom": "Maraîcher",
         "description": "lorem",
+        "longitude": "98.0919",
+        "latitude": "98.0919",
         "commentaires": [
           {
             "id": 678,
